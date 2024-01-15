@@ -1,4 +1,4 @@
-# PicGoGitHubimg
+# PicGo_GitHub_img
 
 ---
 
