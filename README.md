@@ -3,28 +3,28 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/1.webp">
+  <img src="https://raw.github.ink/wlc743859910/PicGo_GitHub_img/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/2.webp">
+  <img src="https://raw.github.ink/wlc743859910/PicGo_GitHub_img/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/3.webp">
+  <img src="https://raw.github.ink/wlc743859910/PicGo_GitHub_img/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/4.webp">
+  <img src="https://raw.github.ink/wlc743859910/PicGo_GitHub_img/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/5.webp">
+  <img src="https://raw.github.ink/wlc743859910/PicGo_GitHub_img/master/img/5.webp">
 </p>
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{PicGoGitHubimg}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{PicGo_GitHub_img}/count.svg)
 
 ---
 
